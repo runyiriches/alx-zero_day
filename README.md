@@ -1,2 +1,2 @@
-My first readme
-Updatin my Readme for task
+Updating my Readme for task
+My Readme
